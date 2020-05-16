@@ -9,6 +9,11 @@ This is an experimental project.
 
 Install
 -------
+Download this skeleton and the PyRindow 0.1.x from [release page](https://github.com/rindow/pyrindow-framework/releases)
+
+Copy the library and set the path.
+Please see the loader.py in the vendor directory
+
 Copy the library and set the path.
 
 Requirements
