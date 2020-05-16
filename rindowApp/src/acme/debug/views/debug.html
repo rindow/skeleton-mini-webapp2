@@ -1,0 +1,9 @@
+{% extends "base.html" %}
+{% block title %}Debug{% endblock %}
+{% block content %}
+{% autoescape true %}
+<pre>
+{{ debug }}
+</pre>
+{% endautoescape %}
+{% endblock %}
